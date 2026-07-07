@@ -6,7 +6,7 @@ cask "gitwand" do
       verified: "github.com/devlint/GitWand/"
   name "GitWand"
   desc "Git client with deterministic merge-conflict auto-resolution"
-  homepage "https://gitwand.devlint.fr/"
+  homepage "https://gitwand.app/"
 
   livecheck do
     url :url
