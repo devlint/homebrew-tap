@@ -1,6 +1,6 @@
 cask "gitwand" do
-  version "3.3.0"
-  sha256 "b68b6cc5d2a5d9e6e9c7b43ab5b908ba83209df07fee5e72c7317a06fdbbcab9"
+  version "3.4.0"
+  sha256 "0a559677d9faf22700d8f532e85acf2e7c00e4f0b4f668f0f3c6570f001f5752"
 
   url "https://github.com/devlint/GitWand/releases/download/v#{version}/GitWand_#{version}_universal.dmg",
       verified: "github.com/devlint/GitWand/"
